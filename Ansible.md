@@ -9,7 +9,7 @@ File: ~/.ansible.cfg
 inventory = ~/.ansible/hosts
 
 [inventory]
-enable_plugins = yaml,ini
+enable_plugins = yaml, ini
 ```
 
 
